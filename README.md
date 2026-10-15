@@ -1,2 +1,2 @@
 # monkey-flappy-bird
-Game for phones
+Game for phones, donkey kong lookalike goes absolute bananza
